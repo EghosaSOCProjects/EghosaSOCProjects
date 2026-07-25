@@ -22,7 +22,7 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
 | Penetration Testing Fundamentals
 | Vulnerability Management & Risk Assessment
 | Malware Analysis
-| Incident Response Case Study – Compromised Host Investigation
+
 
 ## Tools
 
