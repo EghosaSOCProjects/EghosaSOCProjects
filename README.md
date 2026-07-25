@@ -59,3 +59,39 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
 <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel">
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
+
+### PENTEST
+
+<a href="https://nmap.org/">
+  <img src="https://img.shields.io/badge/-Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+</a>
+
+<a href="https://www.metasploit.com/">
+  <img src="https://img.shields.io/badge/-Metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white" />
+</a>
+
+<a href="https://portswigger.net/burp">
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</a>
+
+<a href="https://www.tenable.com/products/nessus">
+  <img src="https://img.shields.io/badge/-Nessus-00ADEF?style=for-the-badge&logo=tenable&logoColor=white" />
+</a>
+
+<a href="https://www.greenbone.net/en/openvas/">
+  <img src="https://img.shields.io/badge/-OpenVAS-009639?style=for-the-badge&logo=openvas&logoColor=white" />
+</a>
+
+<a href="https://owasp.org/www-project-top-ten/">
+  <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</a>
+
+### Cloud
+
+<a href="https://azure.microsoft.com/">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
