@@ -1,5 +1,8 @@
 # Hello, I'm Eghosa
 <a href="https://www.linkedin.com/in/eghosa-osayamwen-a34696118/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/Gh0st2324?tab=completed-rooms">
+  <img src="https://img.shields.io/badge/-TryHackMe-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
 I’m an IT Support Technician with 2 years of hands-on experience troubleshooting hardware, software, networking, and point-of-sale systems in a fast-paced retail environment. My current role has given me strong foundations in Windows administration, remote support, Active Directory, ticket management, and IT operations.
 
