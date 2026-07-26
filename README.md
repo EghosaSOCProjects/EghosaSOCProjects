@@ -19,7 +19,7 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
 |---------------------------------------------|-------------------------------|
 | Security Operations Centre (SOC) Monitoring & Incident Response| https://github.com/EghosaSOCProjects/SOC-Monitoring-Incident-Response-Lab</a>|
 |Threat Intelligence and Attack Analysis Using T-Pot Honeypot | https://github.com/EghosaSOCProjects/Threat-Intelligence-and-Attack-Analysis-Using-T-Pot-Honeypot/blob/main/README.md|
-| Penetration Testing Fundamentals
+|Web Penetration Testing Lab
 | Malware Analysis
 
 
