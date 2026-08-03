@@ -21,7 +21,7 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
 |Threat Intelligence and Attack Analysis Using T-Pot Honeypot | https://github.com/EghosaSOCProjects/Threat-Intelligence-and-Attack-Analysis-Using-T-Pot-Honeypot/blob/main/README.md|
 |Web Penetration Testing Lab|https://github.com/EghosaSOCProjects/Web-Penetration-Testing-Lab/blob/main/README.md </a>|
 | Malware Analysis Lab|https://github.com/EghosaSOCProjects/Malware-Analysis-Lab/blob/main/README.md<a/>|
-|Account Takeover Investigation with KQL|
+|Account Takeover Investigation with KQL|https://github.com/EghosaSOCProjects/Account-Takeover-Investigation-with-KQL </a>|
 
 
 ## Tools
