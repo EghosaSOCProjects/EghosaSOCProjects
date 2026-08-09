@@ -22,7 +22,7 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
 |Web Penetration Testing Lab|https://github.com/EghosaSOCProjects/Web-Penetration-Testing-Lab/blob/main/README.md </a>|
 | Malware Analysis Lab|https://github.com/EghosaSOCProjects/Malware-Analysis-Lab/blob/main/README.md<a/>|
 |Account Takeover Investigation with KQL|https://github.com/EghosaSOCProjects/Account-Takeover-Investigation-with-KQL </a>|
-|Network Traffic Monitoring Lab — TShark, Zeek & Suricata|
+|Network Traffic Monitoring Lab — TShark, Zeek & Suricata|https://github.com/EghosaSOCProjects/Network-Traffic-Monitoring-Lab-with-TShark-Zeek-Suricata </a>|
 
 ## Tools
 
