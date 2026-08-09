@@ -52,10 +52,6 @@ Current focus: SIEM monitoring • Threat detection • Incident response • Vu
   <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </a>
 
-<a href="https://cloud.google.com/chronicle">
-  <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</a>
-
 <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel">
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
